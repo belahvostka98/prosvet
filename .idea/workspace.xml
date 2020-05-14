@@ -19,6 +19,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SvnConfiguration">
@@ -39,13 +40,17 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="484" y="233" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.860@0.0.1440.860" timestamp="1589468746204" />
+    <state x="500" y="171" key="FileChooserDialogImpl" timestamp="1589470805638">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="500" y="171" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1589470805638" />
     <state x="221" y="72" key="SettingsEditor" timestamp="1589469102203">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="221" y="72" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1589469102203" />
-    <state x="416" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1589469079694">
+    <state x="416" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1589470747257">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="416" y="254" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1589469079694" />
+    <state x="416" y="254" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1589470747257" />
   </component>
 </project>
